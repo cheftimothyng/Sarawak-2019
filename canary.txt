@@ -1,0 +1,35 @@
+
+ ID = -g316da6e ; 
+
+ Greetings from The On-Line Encyclopedia of Integer 
+ Sequences!) A103042 Numbers n such that 6*10^n + 7*R_n - 
+ 4 is prime, where R_n = 11...1 is the repunit (A002275) 
+ of length n.  1
+ 0, 2, 156, 1055, 1997, 8930, 9563, 19560, 26838 //
+
+ see M4 // Grab 1979 is PRIME ; {1, 1979} 
+
+ ("PREEMPT" - kernel forced context switch)
+ Why?
+
+ Device has 4 cores!!
+ We should be able to do RMA threads scheduling!!
+ 
+ armv7l Android
+
+ $ gcc -S shellcode.i
+   shellcode.c:3:1: warning: return type 
+   of 'main' is not 'int'
+       [-Wmain-return-type]
+       void main() {
+ 
+   shellcode.c:3:1: note: change return type to 'int'
+   void main() {
+
+   int shellcode.c:8:4: warning:
+   implicit declaration of function
+       'execve' is invalid in C99 
+       [-Wimplicit-function-declaration]
+       execve(name[0], name, ((void*)0)); 
+
+ 2 warnings generated.
